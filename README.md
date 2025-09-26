@@ -36,14 +36,6 @@
 
 ---
 
-## 🌟 Highlight Projects  
-- 🗺️ **AI Trip Planner (MERN + Google Gemini)** – AI-powered custom trip planning based on user choices  
-- 📱 **Mobile Apps (React Native)** – Cross-platform apps for real-world use cases  
-- 🎨 **3D Web Experiences** – Interactive 3D elements using **Three.js + Blender**  
-- 📊 **Data Dashboards** – Python + Plotly visualizations with real-time insights  
-
----
-
 ## 📈 GitHub Stats  
 ![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasahhm&show_icons=true&theme=tokyonight)  
 
