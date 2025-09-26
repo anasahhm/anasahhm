@@ -2,7 +2,7 @@
 
 💻 **Full-Stack & AI Integration Engineer**  
 🌍 Building **Web + Mobile + 3D Experiences** with a creative touch  
-⚡ Passionate about **startups, innovation, and premium user experiences**  
+⚡ Passionate about **innovation, and premium user experiences**  
 
 ---
 
