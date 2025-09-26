@@ -1,0 +1,6 @@
+# Force PHP detection
+*.php linguist-language=PHP
+
+# Ignore vendor and node_modules folders from stats
+vendor/* linguist-vendored
+node_modules/* linguist-vendored
