@@ -1,5 +1,5 @@
 <img width="1133" height="750" alt="banner" src="https://github.com/user-attachments/assets/5bc69b55-5082-4dd8-ba4f-d4b5b0a1c98a" />
-👋**Hi, I'm Anas Ahmed** 
+👋 Hi, I'm **Anas Ahmed** 
 
 💻 **Full-Stack & AI Integration Engineer**  
 🌍 Building **Web + Mobile + 3D Experiences** with a creative touch  
