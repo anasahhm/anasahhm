@@ -16,8 +16,3 @@
 - 🔹 **Backend & Data** → Python, Flask, PHP, NumPy, Matplotlib, Plotly  
 - 🔹 Strong in **DSA, System Design, and Architecture**  
 - 🔹 I also enjoy **vibe coding & creative tech** 🌌
-
----
-
-📈***GitHub Stats***  
-![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasahhm&show_icons=true&theme=tokyonight)  
