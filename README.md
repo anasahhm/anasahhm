@@ -1,4 +1,5 @@
-<img width="1133" height="750" alt="banner" src="https://github.com/user-attachments/assets/5bc69b55-5082-4dd8-ba4f-d4b5b0a1c98a" />
+<img width="1133" height="371" alt="banner" src="https://github.com/user-attachments/assets/92abb34b-6fc2-4cf4-a38d-0c033b0eb408" />
+
 👋 Hi, I'm Anas Ahmed
 
 💻 **Full-Stack & AI Integration Engineer**  
